@@ -27,7 +27,7 @@ Contained in this repository is some sample data that we'd like you to take a lo
 1. What is a typical cost for each of the different cause types?
 1. What is a reasonable range of costs for each cause type?
 
-## Loss Summary
+### Loss Summary
 
 How would you estimate the total losses an organization might accrue in a single year from multiple breaches? There is no need to actually code this one up if you don't want to, but rather just describe how you'd go about it.
 
